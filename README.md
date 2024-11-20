@@ -13,7 +13,7 @@ To install the project, clone the repository and install the dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Zoz-HF/Image_Descriptor
+git clone https://github.com/Ziyad-HF/Image_Descriptor
 
 # Navigate to the project directory
 cd Image_Descriptor
@@ -52,7 +52,7 @@ python index.py
     <sub><b>Abdulrahman Shawky</b></sub></a>
     </td>
   <td align="center">
-    <a href="https://github.com/Zoz-HF" target="_black">
+    <a href="https://github.com/Ziyad-HF" target="_black">
     <img src="https://avatars.githubusercontent.com/u/99608059?v=4" width="150px;" alt="Ziyad El Fayoumy"/>
     <br />
     <sub><b>Ziyad El Fayoumy</b></sub></a>
